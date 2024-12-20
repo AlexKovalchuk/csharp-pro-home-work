@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-3-LINQ", "HomeWork
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-4-CustomList", "HomeWork-4-CustomList\HomeWork-4-CustomList.csproj", "{58E03F76-FF89-40AC-9A8F-5B2723495374}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork-6-Regex", "HomeWork-6-Regex\HomeWork-6-Regex.csproj", "{0D6C32FE-746F-45C6-93A9-FD8A3ECC7BBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{58E03F76-FF89-40AC-9A8F-5B2723495374}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58E03F76-FF89-40AC-9A8F-5B2723495374}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58E03F76-FF89-40AC-9A8F-5B2723495374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6C32FE-746F-45C6-93A9-FD8A3ECC7BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6C32FE-746F-45C6-93A9-FD8A3ECC7BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6C32FE-746F-45C6-93A9-FD8A3ECC7BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6C32FE-746F-45C6-93A9-FD8A3ECC7BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
